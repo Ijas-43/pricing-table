@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black !important;
+}
+
+.heading {
+    background-color: white;
+    text-align: center;
+    margin: 15px;
+    padding: 4px;
+}
+.top{
+    margin-top: 100px;
+}
+.card {
+    position: relative;
+    background-color: #dcdcdc !important;
+    padding: 20px;
+    /* padding-top: 100px; */
+    width: 85%;
+    border-radius: 20px !important;
+    box-shadow: 15px 20px 20px rgba(1, 1, 1, 0.3),
+        inset 4px 4px 10px white !important;
+
+}
+
+.p {
+    background-color: #c0c0c0;
+    margin-top: 10px;
+}
+.g {
+    background-color: #d4af37;
+    margin-top: 10px;
+}
+
+.s {
+    background-color: #f4a460;
+    margin-top: 10px;
+}
+.btn {
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 30px !important;
+}
+
+#g {
+    background-color: #d4af37;
+}
+
+#s {
+    background-color: #f4a460;
+}
+
+.bg {
+    margin-top: 100px;
+}
+
+.clippy{
+
+    clip-path: polygon(50% 100%, 100% 75%, 100% 0, 0 0, 0 75%);
+    width: 50%;
+    height: 130px;
+    margin-left: 55px;
+    margin-top: -25px;
+}
+
+.silver{
+    margin-top: 50px;
+}
+.clip{
+    background-color: #d4af37;
+    clip-path: polygon(50% 100%, 100% 75%, 100% 0, 0 0, 0 75%);
+    width: 50%;
+    height: 130px;
+    margin-left: 55px;
+    margin-top: -25px;
+
+}
+.clipp{
+    background-color: #f4a460;
+    clip-path: polygon(50% 100%, 100% 75%, 100% 0, 0 0, 0 75%);
+    width: 50%;
+    height: 130px;
+    margin-left: 55px;
+    margin-top: -25px;
+
+}
